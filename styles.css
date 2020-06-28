@@ -48,7 +48,7 @@ body, html {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    background-position: center;
+    background-position: left;
     height: 100vh;
     text-align: right;
     margin-right: 50px;
@@ -56,6 +56,14 @@ body, html {
 
 .text2 {
     margin-top: 50px;
+    margin-bottom: 5px;
+}
+h3 {
+    margin-bottom: 0;
+}
+
+p {
+    margin: 0;
 }
 
 .bg4 {
