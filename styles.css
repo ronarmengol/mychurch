@@ -18,6 +18,47 @@ body, html {
 .bgbtn {
     position: absolute;
     margin: 0 auto;
-    top: 50vh;
+    top: 70vh;
     left: 50%;
+    margin-left: -50px;
+}
+
+.bg2 {
+    background-color: #0d0628;
+    padding-bottom: 200px;
+}
+
+.img1 {
+    text-align: center;
+    padding-top: 6rem;
+}
+
+.text1 {
+    color: #f5c28f;
+    text-align: center;
+}
+
+.text1~p {
+    color: #f2ad69;
+    
+}
+
+.bg3 {
+    background-image: url(prayer.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: right;
+    margin-right: 50px;
+}
+
+.text2 {
+    margin-top: 50px;
+}
+
+.bg4 {
+    background-color: #0d0628;
+    height: 100vh;
 }
